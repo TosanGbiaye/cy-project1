@@ -1,0 +1,8 @@
+{ 
+  "textBox": "input#twotabsearchtextbox",
+  "searchButton": "input#nav-search-submit-button",
+  "ferrari": "Ferrari",
+  "iphone": "iphone 13",
+  "pixel": "Google pixel 6"
+  
+}
